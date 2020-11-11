@@ -1,1 +1,1 @@
-Leetcode and Codewars solutions repo :)
+Leetcode and Codewars Solutions Repo :)
